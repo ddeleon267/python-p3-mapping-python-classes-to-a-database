@@ -1,5 +1,5 @@
 from . import CURSOR
-
+# test
 class Song:
 
     def __init__(self, name, album):
